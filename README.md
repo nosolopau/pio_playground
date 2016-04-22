@@ -1,6 +1,8 @@
+# README
 
-# Install prediction.io
+## Install prediction.io
 
-    wget https://install.prediction.io/install.sh
+    cd /vagrant
+    wget -q https://install.prediction.io/install.sh -O install.sh
     chmod u+x install.sh
     ./install.sh
